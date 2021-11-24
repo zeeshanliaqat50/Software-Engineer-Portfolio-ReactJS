@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Software-Engineer-Portfolio-ReactJS/static/css/main.30df47dc.chunk.css",
+    "main.js": "/Software-Engineer-Portfolio-ReactJS/static/js/main.063c9765.chunk.js",
+    "main.js.map": "/Software-Engineer-Portfolio-ReactJS/static/js/main.063c9765.chunk.js.map",
+    "runtime-main.js": "/Software-Engineer-Portfolio-ReactJS/static/js/runtime-main.c3b4bb16.js",
+    "runtime-main.js.map": "/Software-Engineer-Portfolio-ReactJS/static/js/runtime-main.c3b4bb16.js.map",
+    "static/js/2.0f8c8c68.chunk.js": "/Software-Engineer-Portfolio-ReactJS/static/js/2.0f8c8c68.chunk.js",
+    "static/js/2.0f8c8c68.chunk.js.map": "/Software-Engineer-Portfolio-ReactJS/static/js/2.0f8c8c68.chunk.js.map",
+    "static/js/3.a3d5f47d.chunk.js": "/Software-Engineer-Portfolio-ReactJS/static/js/3.a3d5f47d.chunk.js",
+    "static/js/3.a3d5f47d.chunk.js.map": "/Software-Engineer-Portfolio-ReactJS/static/js/3.a3d5f47d.chunk.js.map",
+    "index.html": "/Software-Engineer-Portfolio-ReactJS/index.html",
+    "static/css/main.30df47dc.chunk.css.map": "/Software-Engineer-Portfolio-ReactJS/static/css/main.30df47dc.chunk.css.map",
+    "static/js/2.0f8c8c68.chunk.js.LICENSE.txt": "/Software-Engineer-Portfolio-ReactJS/static/js/2.0f8c8c68.chunk.js.LICENSE.txt",
+    "static/media/about.f2462db9.JPG": "/Software-Engineer-Portfolio-ReactJS/static/media/about.f2462db9.JPG",
+    "static/media/contact1.dda1df98.jpg": "/Software-Engineer-Portfolio-ReactJS/static/media/contact1.dda1df98.jpg",
+    "static/media/logo.6ce24c58.svg": "/Software-Engineer-Portfolio-ReactJS/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3b4bb16.js",
+    "static/js/2.0f8c8c68.chunk.js",
+    "static/css/main.30df47dc.chunk.css",
+    "static/js/main.063c9765.chunk.js"
+  ]
+}
