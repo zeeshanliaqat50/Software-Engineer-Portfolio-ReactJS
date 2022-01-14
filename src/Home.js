@@ -11,19 +11,19 @@ function Home() {
           </div>
           <div className="navigation pxy__30">
             <ul className="navbar d__flex">
-              <a href="#Home">
+              <a href="#">
                 <li className="nav__items mx__15">Home</li>
               </a>
-              <a href="#Home">
+              <a href="#">
                 <li className="nav__items mx__15">About</li>
               </a>
-              <a href="#Home">
+              <a href="#">
                 <li className="nav__items mx__15">Services</li>
               </a>
-              <a href="#Home">
+              <a href="#">
                 <li className="nav__items mx__15">Portfolio</li>
               </a>
-              <a href="#Home">
+              <a href="#">
                 <li className="nav__items mx__15">Contact</li>
               </a>
             </ul>
@@ -42,6 +42,9 @@ function Home() {
             <h3 className="home__text sweet pz__10">
              Software Engineer,
             </h3>
+            <h4 className="home__text sweet pz__10">
+           SDG Positive Change Ambassador,
+            </h4>
             <h4 className="home__text pz__10">
              Programming & Tech Mentor
             </h4>

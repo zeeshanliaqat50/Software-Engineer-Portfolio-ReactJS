@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import aboutImg from "./Images/about.JPG";
+import aboutImg from "./Images/aboutme.jpg";
 function About() {
   return (
     <div className="about component__space">
@@ -12,21 +12,11 @@ function About() {
           <div className="col__2">
             <h1 className="about__heading">About Me</h1>
             <div className="about__meta">
-              <p className="about__text p__color">
-                I am a professional software developer having more than 5 years
-                of experience in the field of software development and testing.
-                I can develop and build all kinds of Java/Python/C#/Web
-                development projects. I provide online tutoring and assistance
-                services to students and new programming learners from all over
-                the world and provide tutoring services in the following areas :
-                PYTHON PYTHON-DJANGO DEV JAVA JAVASCRIPT / REACT.JS JAVA-JDBC
-                SELENIUM WITH JAVA/PYTHON OpenCV/TESSERACT ALGORITHM DESIGN AND
-                ANALYSIS HTML/CSS JQUERY ASP.NET C# I conduct online lessons by
-                providing helping and practice material. The primary focus will
-                be on the practical implementation of theoretical concepts to
-                improve the programming skills of students by hands-on practice.
-                I would help you to improve your : -Programming skills -Logical
-                thinking skills -Problem-solving skills -Analytical skills
+              <p className="about__text p__color t1">
+                I am a <b className="sweet "> "Professional Sofware Engineer, Tech Enthusiast, Programming Tutor, Sports Athelete, Traveller, occasionally photographer and Sustainable Development Goals (SDG) Positive Change Ambassador"</b> having more than 5 years
+                of experience in the field of Software Engineering, striving to contribute for Sustainable Development goals through green and efficient software solutions.
+                I believe that "Positive and Transformational Change" starts by beliving in the Power of One, so working in my own capacity, to develop 
+                sustainable, efficient and quality software products.
               </p>
               <div className="about__button d__flex align__items__center">
                 <a href="#">
