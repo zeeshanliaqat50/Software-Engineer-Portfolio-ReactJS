@@ -2,6 +2,7 @@ import React from "react";
 import "./Home.css";
 import logo from "./Images/logo.png";
 function Home() {
+  document.title="Zeeshan Liaqat";
   return (
     <div className="home">
       <div className="home__bg">

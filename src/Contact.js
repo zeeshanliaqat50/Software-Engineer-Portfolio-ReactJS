@@ -1,26 +1,9 @@
 import React from 'react'
 import './Contact.css'
-import contactImg from "./Images/contact1.jpg";
+import contactImg from "./Images/contact.jpg";
 function Contact() {
     return (
-       /* <div className="contact component__space">
-            <div className="container">
-           <div className="row">
-          <div className="col__2">
-          <div className="contact_box">
-          <div className="contact_meta">
-            <h1 className="hire__text">
-            <h1 className="about__heading">About Me</h1>
-            </h1>
-            </div>
-          </div>
-          </div>
-          <div className="col__2">
-            <img src={aboutImg} className="about__img"></img>
-          </div>
-          </div>
-          </div>
-        </div>*/
+      
         <div className="about component__space">
       <div className="container">
         <div className="row">

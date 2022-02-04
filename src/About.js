@@ -13,8 +13,8 @@ function About() {
             <h1 className="about__heading">About Me</h1>
             <div className="about__meta">
               <p className="about__text p__color t1">
-                I am a <b className="sweet "> "Professional Sofware Engineer, Tech Enthusiast, Programming Tutor, Sports Athelete, Traveller, occasionally photographer and Sustainable Development Goals (SDG) Positive Change Ambassador"</b> having more than 5 years
-                of experience in the field of Software Engineering, striving to contribute for Sustainable Development goals through green and efficient software solutions.
+                I am a <b className="sweet "> "Professional Sofware Engineer, Tech Enthusiast, Programming Tutor, Sports Athelete, Traveller, occasionally photographer and Sustainable Development Goals (SDG) Positive Change Ambassador, Github Arctic Code Vault Contributor"</b> having more than 5 years
+                of experience in the field of Software Engineering with expertises in Web application developmen and data science analytics, striving to contribute for Sustainable Development goals through green and efficient software solutions.
                 I believe that "Positive and Transformational Change" starts by beliving in the Power of One, so working in my own capacity, to develop 
                 sustainable, efficient and quality software products.
               </p>
