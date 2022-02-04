@@ -14,5 +14,11 @@ function App() {
     </div>
   );
 }
+/**
+ * To update deployed version run following commands
+ * git push origin :gh-pages
+ * npm run build
+ * npm run deploy
+ */
 
 export default App;

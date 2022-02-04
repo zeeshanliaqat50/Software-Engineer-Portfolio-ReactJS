@@ -128,10 +128,10 @@ I provide services in the following domains        </p>
                 </svg>
               </div>
               <div className="service__meta">
-                <h1 className="service__text">Programming Tutoring & Mentorship</h1>
+                <h1 className="service__text">Programming Tutoring & Training</h1>
             
                 <p className="p service__text p__color">
-                  1:1 Online Programming Tutoring
+                  1:1 Online Programming Training
                    C#, Java, C language, C++, JavaScript, Python, React JS, Web API
                    
                   and Selenium Automation, Mentorship and Project development support and assistance.
